@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Math Teacher Assistant",
+  "description": "An AI-powered assistant to help you solve complex math problems and understand difficult concepts. Input your problem via text or image, or ask for an explanation of a mathematical topic, and get clear, step-by-step guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
